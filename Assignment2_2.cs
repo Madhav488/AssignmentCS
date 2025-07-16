@@ -53,7 +53,7 @@ namespace AssignmentCS
 
             
             Console.WriteLine("\nElectricity Bill");
-            Console.WriteLine("--------------------------");
+           
             Console.WriteLine($"Customer IDNO : {id}");
             Console.WriteLine($"Customer Name : {name}");
             Console.WriteLine("Unit Consumed : {0}", units);
